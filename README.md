@@ -71,6 +71,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 7. Contact
 
 **Toluwanimi Jesusina**
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [jesusinatoluwanimi@gmail.com](mailto:jesusinatoluwanimi@gmail.com)
 - LinkedIn: [linkedin.com/in/toluwanimi-jesusina](https://linkedin.com/in/your-profile)
 ```
